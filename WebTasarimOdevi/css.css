@@ -1,0 +1,86 @@
+.pepsi{
+	
+	margin-left:85%;
+	
+	
+	
+}
+
+
+#menu{ 
+	background-color:black;
+	margin:10px 150px 10px 100px;
+
+	list-style: none outside none;
+    margin: 30px;
+
+	
+	
+	
+}
+
+#asa{
+	padding-left:20px;
+}
+ul{
+	color:white;
+	font-weight:700;
+	
+}
+h1{
+	color:white;
+	
+}
+.başlık{
+	background-color:black;
+	margin-right:20px;
+	
+}
+img{
+	padding-left:100px;
+	
+	
+}
+.kitapresim{
+	background-color:#191970;
+	margin-bottom:50px;
+	
+}
+.saa{
+	float:left;
+}
+ul{
+	list-style: none outside none;
+  }
+
+li {
+    position: relative;
+    display: inline;
+    margin: 20px;
+}
+.baslik2 {
+	text-align: center;
+	
+
+}
+
+.baslik3 {
+	
+	
+	text-align: center;
+	
+}
+
+.footer {
+	
+	text-align: center;
+	margin-right: 50px;
+	
+}
+
+.kılas {
+	
+	float: right;
+	
+	
+}
